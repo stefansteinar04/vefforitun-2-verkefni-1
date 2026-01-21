@@ -1,5 +1,12 @@
 # Vefforritun 2 2026, verkefni 1
 
+- [Vefforritun 2, 2026, Verkefni 1](https://youtu.be/eJOuNaSY22s)
+- [Vefforritun 2, 2026, fyrirlestur 1.3: Unnið í verkefni 1](https://youtu.be/FEasxXboP4Q)
+- [Fyrirlestur 2.2: Verkefni 1, strúktúr og netlify](https://youtu.be/M1R26dQFzj4)
+- [Fyrirlestur 2.3: Verkefni 1, laga build og setja upp á netlify](https://youtu.be/YHIH8kpHSwI)
+- [Fyrirlestur 2.4: Verkefni 1, tests og github actions](https://youtu.be/HMXqEO4bTPc)
+- [Fyrirlestur 2.5: Verkefni 1, js á client og index.html](https://youtu.be/sfe3JdG4tl0)
+
 ## Markmið
 
 - HTML og CSS Upprifjun úr vefforritun 1.
