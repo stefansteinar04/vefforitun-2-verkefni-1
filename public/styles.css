@@ -1,1 +1,38 @@
-/* útfæra */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; }
+.site-header { padding: 1rem; border-bottom: 1px solid #ddd; }
+.container { max-width: 900px; margin: 0 auto; padding: 1rem; }
+
+.category-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.5rem 1rem;
+  padding-left: 1.2rem;
+}
+
+.card { border: 1px solid #ddd; border-radius: 10px; padding: 0.75rem; margin: 0.75rem 0; }
+
+.scoreboard {
+  display: flex;
+  gap: 1rem;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  position: sticky;
+  top: 0.5rem;
+  background: white;
+}
+
+.actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+
+button {
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #bbb;
+  background: white;
+  cursor: pointer;
+}
+button[disabled] { opacity: 0.55; cursor: not-allowed; }
+
+.muted { opacity: 0.7; }
+.q-label { margin-right: 0.5rem; font-weight: 600; }
